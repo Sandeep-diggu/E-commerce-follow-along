@@ -160,3 +160,8 @@ Ecommerce-Follow-Along is a full-fledged **E-Commerce Application** built using 
 ### ^^🛠️ Milestone 30 Payment
 
 ✅ worked on payment page.
+
+### ^^🛠️ Milestone 31 Payment
+
+✅ implemented  redux in frontend
+✅ used redux in used page
